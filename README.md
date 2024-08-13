@@ -75,7 +75,7 @@
 <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricky2812&show_icons=true&locale=en&layout=compact" alt="ricky2812" width="350" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricky2812&show_icons=true&locale=en&layout=compact" alt="ricky2812" width="350" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricky2812&show_icons=true&locale=en" alt="ricky2812" /></p>
 <p> <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="350"> </p>
