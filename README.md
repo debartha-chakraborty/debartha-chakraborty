@@ -5,9 +5,10 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricky2812&label=Profile%20views&color=0e75b6&style=flat" alt="ricky2812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debartha-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="debartha-chakraborty
+" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky2812" alt="ricky2812" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debartha-chakraborty" alt="debartha-chakraborty" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamdebartha" target="blank"><img src="https://img.shields.io/twitter/follow/iamdebartha?logo=twitter&style=for-the-badge" alt="iamdebartha" /></a> </p>
 
@@ -75,9 +76,9 @@
 <!-- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  -->
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricky2812&show_icons=true&locale=en&layout=compact" alt="ricky2812" width="350" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debartha-chakraborty&show_icons=true&locale=en&layout=compact" alt="debartha-chakraborty" width="350" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricky2812&show_icons=true&locale=en" alt="ricky2812" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debartha-chakraborty&show_icons=true&locale=en" alt="debartha-chakraborty" /></p>
 <p> <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="350"> </p>
-<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricky2812&" alt="ricky2812" /></p>
+<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debartha-chakraborty&" alt="debartha-chakraborty" /></p>
 
