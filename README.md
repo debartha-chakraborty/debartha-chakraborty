@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://x.com/deb_da_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iamdebartha?logo=twitter&style=for-the-badge" alt="deb_da_dev" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced Computer Vision for Drone applications**
+- 🔭 I’m currently working on **Advanced Computer Vision for Remote Sensing and Agricultural applications**
 
-- 🌱 I’m currently learning **Azure cloud, zig, spark**
+- 🌱 I’m currently learning **SLAM nav, zig**
 
 - 💬 Ask me about **Computer Vision, Generative AI, Python**
 
