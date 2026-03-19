@@ -81,8 +81,8 @@
     
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debartha-chakraborty&show_icons=true&locale=en&layout=compact" alt="debartha-chakraborty" width="350" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debartha-chakraborty&show_icons=true&locale=en" alt="debartha-chakraborty" /></p>
-<p> <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="350"> </p>
-<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debartha-chakraborty&" alt="debartha-chakraborty" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debartha-chakraborty&show_icons=true&locale=en&layout=compact" alt="debartha-chakraborty" width="350" /></p>  -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debartha-chakraborty&show_icons=true&locale=en" alt="debartha-chakraborty" /></p> -->
+<!-- <p> <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="350"> </p> -->
+<!-- <p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debartha-chakraborty&" alt="debartha-chakraborty" /></p> -->
 
